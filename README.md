@@ -2,4 +2,4 @@
 https://github.com/moisonmaxime
 
 ### Change of username
-everything is available at: (https://github.com/moisonmaxime)
+Everything is available at: (https://github.com/moisonmaxime)
